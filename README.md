@@ -14,13 +14,13 @@ This template is for growing business through SEO decrease the number of your co
 Clone the project
 
 ```bash
-  git clone https://github.com/rakshitkoyani/Restaurant-Home-Page.git
+  git clone https://github.com/rakshitkoyani/crush-your-competition.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Restaurant-Home-Page
+  cd crush-your-competition
 ```
 
 ## Author
@@ -39,3 +39,5 @@ Go to the project directory
 It takes me around 2 hours to complete me this project.
 
 ## Live link of the project
+
+https://rakshitkoyani.github.io/crush-your-competition/
